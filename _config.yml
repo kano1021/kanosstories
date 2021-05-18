@@ -3,8 +3,9 @@ theme: jekyll-theme-slate
 title: [拉芙山爱情故事]
 description: [拉芙山是浪漫之都的大学城旁的一个小区，生活在这里的人们几乎都过着上课回家两点一线的枯燥生活，但许多drama也就在这样简单的环境里滋生了。]
 
-github_username:  kano1021
 
-comment_gitment_repo: kano1021.github.io
+github_username: kano1021
+
+comment_gitment_repo: kanosstories
 comment_gitment_clientId: fb4d682c0f3ab53381c1
 comment_gitment_clientSecret: 7b14e9f29a07f751243ec6690db4835fb6b22ad4
