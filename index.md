@@ -1,5 +1,5 @@
 *本系列小说均为作者独立构思，人物，故事情节均为虚构，不涉及任何真实个人或事件，如有雷同，纯属巧合
 
 目录：
-- [《愿赌服输》](https://kano1021.github.io/kano.github.io/fakelover.md)
-- [《公主传说》](https://kano1021.github.io/kano.github.io/pricelessprincess.md)
+- [《愿赌服输》](https://kano1021.github.io/fakelover)
+- [《公主传说》](https://kano1021.github.io/pricelessprincess)
